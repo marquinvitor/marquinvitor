@@ -1,3 +1,3 @@
 ### Olá! Eu sou o marcos 🖐
 
-![marquinvitor GitHub stats](https://github-readme-stats.vercel.app/api?username=marquinvitor&show_icons=true&theme=radical)
+![marquinvitor GitHub stats](https://github-readme-stats.vercel.app/api?username=marquinvitor&show_icons=true&theme=dracula)
