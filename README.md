@@ -1,4 +1,4 @@
-### Olá! Eu sou o marcos 🖐
+### Olá! Eu sou o Marcos 🖐
 
 ![marquinvitor GitHub stats](https://github-readme-stats.vercel.app/api?username=marquinvitor&show_icons=true&theme=dark)
 
