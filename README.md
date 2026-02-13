@@ -46,6 +46,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Marcos%20Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-vitor-s-freire-b49191278)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-Marcos%20Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marcos-vitor-s-freire-b49191278)](www.linkedin.com/in/marcos-vitor-s-freire-b49191278)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcosvitorsouzafreire@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/marquinvitor?label=follow&style=social)](https://github.com/marquinvitor)
