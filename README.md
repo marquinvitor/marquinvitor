@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/seu-usuario-do-github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-do-github&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marquinvitor&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
