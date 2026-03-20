@@ -4,10 +4,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software robustas.
-- 🎓 Estudando **Engenharia de Software** (7º de 8 semestres) na **Universidade Federal do Ceará (UFC)**.
-- 💼 Atualmente focado em projetos acadêmicos e desenvolvimento pessoal, em busca de oportunidades.
-- 🌱 Aprofundando conhecimentos em arquitetura de sistemas, backend e machine learning.
+- Explorando novas tecnologias e desenvolvendo soluções de software robustas.
+- Estudando **Engenharia de Software** (7º de 8 semestres) na **Universidade Federal do Ceará (UFC)**.
+- Atualmente focado em projetos acadêmicos e desenvolvimento pessoal, em busca de oportunidades.
+- Aprofundando conhecimentos em arquitetura de sistemas, backend e machine learning.
 
 ## Minhas Skills
 
