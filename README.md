@@ -13,7 +13,6 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=00ADD8)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
